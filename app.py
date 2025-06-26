@@ -6,7 +6,6 @@ import re
 import numpy as np
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import os
-
 app = Flask(__name__)
 
 # Global variables to store model and tokenizer
