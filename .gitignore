@@ -1,0 +1,5 @@
+# Ignore virtual environment
+tf-env/
+
+# Ignore large CSV data
+data/*.csv
